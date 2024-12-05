@@ -1,5 +1,6 @@
 ## IZISOFTWARE EXERCIES NODEJS / MONGODB
-
+Dương Văn Tiến
+[https://github.com/Tien2003deptrai/test-backend-izi/blob/main/dco.txt](https://github.com/Tien2003deptrai/test-backend-izi/tree/main)
 
 ### Sau khi hoàn thành đẩy code lên github và nộp bài vào sheet:
 - https://docs.google.com/spreadsheets/d/1vCYwP6SEAjkblESZrII8Ac8cXLnKBSwq0nNN9hNcrBU/edit?gid=0#gid=0
